@@ -16,3 +16,4 @@ IBM Watson
         ●	pulse rate and temperature are monitored by sending the sensor data to the cloud.
         ●	Health conditions can be monitored through a web application.
         ●	Admin can view the location of every soldier in the web application using maps.
+![image](https://user-images.githubusercontent.com/70075276/188305541-88147de7-fee2-4974-b6c4-37bbda46ef6c.png)
