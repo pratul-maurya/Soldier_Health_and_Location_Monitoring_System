@@ -8,7 +8,7 @@ myConfig = {
     "deviceId":"1234"
   },
   "auth": {
-    "token": "maurya5799"
+    "token": "YOUR_TOKEN"
   }
 }
 client = wiotp.sdk.device.DeviceClient(config=myConfig, logHandlers=None)
